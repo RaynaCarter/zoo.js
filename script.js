@@ -26,4 +26,4 @@ class Tiger {
 
 }
 
-class 
+class
